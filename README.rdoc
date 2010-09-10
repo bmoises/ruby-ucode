@@ -1,6 +1,9 @@
 = ruby-ucode
 
-Description goes here.
+A collection of different pieces of code i think are useful.
+* xml stream
+* yaml loader
+* argv validator
 
 == Note on Patches/Pull Requests
  
